@@ -1,6 +1,5 @@
 import React from 'react';
 import { HashRouter, Switch, Route, Redirect } from 'react-router-dom';
-import './App.css';
 import login from './components/login';
 import register from './components/register';
 import dashboard from './components/dashboard';

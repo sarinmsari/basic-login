@@ -1,0 +1,18 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-items: center;
+}
+.header{
+    background-color: black;
+    color: white;
+}
+input{
+    margin: 10px;
+}
+#login{
+    background-color: skyblue;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+}
