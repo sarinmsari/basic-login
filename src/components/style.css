@@ -6,6 +6,7 @@
 .header{
     background-color: black;
     color: white;
+    margin: 10px;
 }
 .form{
     font-size: 15px;
@@ -18,4 +19,19 @@ button{
     padding: 10px;
     font-weight: bold;
     border-radius: 10px;
+}
+.content{
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    border: 1px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logout{
+    font-size: 13px;
+    float: right;
+    color: rgba(255, 255, 255, 0.664);
+    margin: 5px;
+    margin-right: 20px;
+    text-decoration: none;
 }
