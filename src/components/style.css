@@ -7,10 +7,13 @@
     background-color: black;
     color: white;
 }
+.form{
+    font-size: 15px;
+}
 input{
     margin: 10px;
 }
-#login{
+button{
     background-color: skyblue;
     padding: 10px;
     font-weight: bold;

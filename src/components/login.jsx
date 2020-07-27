@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./login.css";
+import "./style.css";
 
 function login() {
   return (
@@ -8,7 +8,7 @@ function login() {
       <div className="header">
         <h3>LOGIN</h3>
       </div>
-      <div className="loginform">
+      <div className="form">
         Email:&nbsp;
         <input type="email" name="mailid" id="mailid" placeholder="email" />
         <br />
